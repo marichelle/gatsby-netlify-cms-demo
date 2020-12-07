@@ -28,6 +28,8 @@ organizers:
     - image: /img/organizer-2.jpg
       imageAlt: Tom Hanks
       name: Tom Hanks
+    - image: /img/ramy-kabalan-796973-unsplash.jpg
+      name: George Costanza
 seo:
   browserTitle: About | JavaScript Wakanda
   description: >-
